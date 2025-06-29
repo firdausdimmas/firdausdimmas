@@ -62,15 +62,4 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firdausdimmas&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=firdausdimmas&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdausdimmas&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 > _“Fueling sustainability and operational excellence through data, strategy, and engineering.”_
