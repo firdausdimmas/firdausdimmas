@@ -40,7 +40,7 @@
 ---
 
 ## 🚀 Featured Projects
-- 🔍 **[Unicorn Companies Analysis](https://firdausdimmas.github.io/SQLProject_6/)** — Business insights with PostgreSQL
+- 🔍 **[Unicorn Companies Analysis](https://firdausdimmas.github.io/SQLProject_1/)** — Business insights with PostgreSQL
 - 📈 **[Munchys Executive Dashboard](https://public.tableau.com/views/HealthStatLOSComparison/LOSdashboard)** — Supply chain performance metrics in Tableau
 - ♻️ **Antasena Hydrogen Team** — Sustainable mobility R&D with Life Cycle Assessment
 
