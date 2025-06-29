@@ -41,13 +41,14 @@
 
 ## 🚀 Featured Projects
 - 🔍 **[Unicorn Companies Analysis](https://firdausdimmas.github.io/SQLProject_1/)** — Business insights with PostgreSQL
-- 📈 **[Munchys Executive Dashboard](https://public.tableau.com/views/MunchysSalesInsight/MunchysPetSupplyExecutiveDashboard)** — Supply chain performance metrics in Tableau
+- 📈 **[Munchys Executive Dashboard](https://public.tableau.com/views/MunchysSalesInsight/MunchysPetSupplyExecutiveDashboard)** — Supply chain performance analysis in Tableau
 - ♻️ **Antasena Hydrogen Team** — Sustainable mobility R&D with Life Cycle Assessment
 
 ---
 
 ## 📜 Certifications
 - ✅ SQL Associate – Datacamp
+
 - ✅ Data Analyst Associate – Datacamp
 - ✅ Google Project Management – Google
 
