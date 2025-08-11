@@ -30,11 +30,11 @@
 
 ## 🏆 Major Achievements
 - 🥇 **1st Place** – International Innovation Paper SICLUS 2024, Universitas Hasanuddin
-- 🥇 **1st Place** – 14th Product Design Competition, Universitas Sumatera Utara
+- 🥇 **1st Place** – 14th Product Design Competition 2024, Universitas Sumatera Utara
 - 🥇 **1st Place** – Scientific Paper Diponegoro Science Competition 2024, Universitas Diponegoro
 - 🥈 **1st Runner-Up** – Indonesia Chemical Engineering Challenge (IChEC) 2024, ITB 
-- 🥈 **1st Runner-Up** – International White Paper Competition Industrial Workshop 2023, UGM
-- 🥈 **1st Runner-Up** – Carbon Footprint Reduction Award Shell Eco-Marathon Asia Pacific and Middle East 2023
+- 🥈 **1st Runner-Up** – White Paper Competition Industrial Workshop 2023, UGM
+- 🥈 **2nd Place** – Carbon Footprint Reduction Award Shell Eco-Marathon Asia Pacific and Middle East 2023
 - 🌟 **25+ total awards globally & nationally**
 
 ---
@@ -47,10 +47,10 @@
 ---
 
 ## 📜 Certifications
-- ✅ SQL Associate – Datacamp
-
-- ✅ Data Analyst Associate – Datacamp
-- ✅ Google Project Management – Google
+- ✅ Python Data Associate – DataCamp (2025)
+- ✅ SQL Associate – DataCamp (2025)
+- ✅ Data Analyst Associate – DataCamp (2025)
+- ✅ Google Project Management – Google (2025)
 
 ---
 
